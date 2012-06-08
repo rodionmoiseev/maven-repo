@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.rodion.gradle</groupId>
+  <artifactId>idea-utils-plugin</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120608020625</lastUpdated>
+  </versioning>
+</metadata>
