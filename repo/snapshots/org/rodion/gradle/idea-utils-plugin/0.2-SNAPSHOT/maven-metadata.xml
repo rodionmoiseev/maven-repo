@@ -2,12 +2,12 @@
 <metadata>
   <groupId>org.rodion.gradle</groupId>
   <artifactId>idea-utils-plugin</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1-SNAPSHOT</version>
-      <version>0.2-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20121108.070818</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20121108070818</lastUpdated>
   </versioning>
 </metadata>
